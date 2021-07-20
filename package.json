@@ -1,0 +1,18 @@
+{
+  "name": "typicode-api-specs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakruti-pk/Typicode-API-specs.git"
+  },
+  "author": "Prakruti PK",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
